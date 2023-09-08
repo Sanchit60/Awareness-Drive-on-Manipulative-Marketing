@@ -35,7 +35,7 @@ To get started with this project locally, follow these steps:
 
 ## Data Analysis Report
 
-For a detailed report on our data analysis, please refer to the (manuscript.pdf).
+For a detailed report on our data analysis, please refer to the [MANUSCRIPT](./MANUSCRIPT.pdf).
 
 ## Contributing
 
@@ -51,9 +51,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Contact
 
-For questions, feedback, or support, please reach out to [Your Name](mailto:your.email@example.com).
+For questions, feedback, or support, please reach out to [Sanchit Verma](mailto:sanchitverma031@gmail.com).
 
----
-
-**Note:** This README is a template. Please customize it with your project's specific details, including the installation instructions, data analysis report, and contact information.
 
