@@ -1,2 +1,4 @@
 # Awareness-Drive-on-Manipulative-Marketing
-Led the team in collecting and organizing data on manipulative advertising practices used by major brands. Developed a web page using PHP to educate customers about these practices and researched and analyzed advertising strategies.
+In this we have proposed a system which will help to make people aware from the different types of manipulative advertisement.There are various ways through which people can be manipulated:
+Language-based control: The manipulation of the lingual form and structure implies that lingual material will be crafted to undergo some change, transition, mutilation, or genetic variation that is relatively unusual on the part of the spectator or viewer, starting with smaller or most differentiable of segments or forms and going to lead to quite large lingual entities.
+Manipulative visual methods :Numerous advertising, which are practically everywhere in the media, rely on visual and other integrated strategies to sway consumers. Some of the most popular examples of such approaches include image compression, amusement-ad combination, product size and pricing manipulation, and misleading graphics.
