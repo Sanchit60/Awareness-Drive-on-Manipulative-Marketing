@@ -47,7 +47,7 @@ We maintain a [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a respectful and
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE.md).
 
 ## Contact
 
